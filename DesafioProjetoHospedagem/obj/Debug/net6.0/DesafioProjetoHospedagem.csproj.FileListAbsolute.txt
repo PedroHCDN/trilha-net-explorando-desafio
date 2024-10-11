@@ -1,0 +1,14 @@
+c:\Users\Pedro\OneDrive\Documentos\DesafioProjetoHospedagem\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+C:\Users\Pedro\OneDrive\Documentos\DesafioProjetoHospedagem\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+C:\Users\Pedro\OneDrive\Documentos\DesafioProjetoHospedagem\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+c:\Users\Pedro\OneDrive\Documentos\DesafioProjetoHospedagem\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+c:\Users\Pedro\OneDrive\Documentos\DesafioProjetoHospedagem\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+c:\Users\Pedro\OneDrive\Documentos\DesafioProjetoHospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Pedro\OneDrive\Documentos\DesafioProjetoHospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+c:\Users\Pedro\OneDrive\Documentos\DesafioProjetoHospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+c:\Users\Pedro\OneDrive\Documentos\DesafioProjetoHospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+c:\Users\Pedro\OneDrive\Documentos\DesafioProjetoHospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+c:\Users\Pedro\OneDrive\Documentos\DesafioProjetoHospedagem\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+c:\Users\Pedro\OneDrive\Documentos\DesafioProjetoHospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Users\Pedro\OneDrive\Documentos\DesafioProjetoHospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\Pedro\OneDrive\Documentos\DesafioProjetoHospedagem\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ivE/4G5AQGwsGP0bcmtbi78GoK2r2suAporc1WxgFMpBge+02sKh3Qsb10FBVWPfLvGaK4jm7otrP1iscMinGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pedro\\OneDrive\\Documentos\\DesafioProjetoHospedagem\\DesafioProjetoHospedagem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
